@@ -4,7 +4,7 @@ A frontend admin panel built with React, Tailwind CSS, Lucide Icons, and Rechart
 It includes panels for managing volunteers, buddies, events, communication logs, alerts, and resources.
 
 ## Live Demo
-[View Live Demo](YOUR_LIVE_LINK_HERE)
+[View Live Demo](https://amalick8.github.io/)
 
 ## Features
 - Dashboard overview for organization data  
